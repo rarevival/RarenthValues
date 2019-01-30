@@ -47,7 +47,7 @@
 (MMOZ),Mighty Mask of Zeus ,400K, OR HIGHER GOOD RARE,13793866
 (SH),Scary Hood ,220K,OR HIGHERGOOD RARE,74891545
 (SL),Skeleton Lord ,230K,OR HIGHERGOOD RARE,96079550
-(STV),Sparkle Time Valkryie ,315K, OR HIGHER GOOD RARE,2620507161
+(STV),Sparkle Time Valkryie ,315K, OR HIGHER GOOD RARE,1180433861
 (SC),Sword Cane ,290K,OR HIGHERGOOD RARE,25740034
 (TSTF),Teal Sparkle Time Fedora ,525K,OR HIGHERGOOD RARE,147180077
 (COR), The Crown of Roses,200K,OR HIGHERGOOD RARE,1060280793
@@ -64,7 +64,7 @@
 (Chronmal), Chronomalum: The Wicked Helm,130K,OR LowerBAD RARE ,215719463
 (Cthulhu),Cthulhu ,180K, OR HIGHER GOOD RARE,16385361
 (CI),Cultural Item ,150K, OR HIGHER GOOD RARE,14462955
-(CWU:RR),CW Ultimate: Ruby Rapture ,100K,StableOK RARE,583635712
+(CWURR),CW Ultimate: Ruby Rapture ,100K,StableOK RARE,583635712
 (Ish),Dr. Ishmael ,150K,OR HIGHERGOOD RARE,135470997
 (DDH),Dual Darkhearts ,130K, OR HIGHER GOOD RARE,108149175
 (DUOTF),Duchess of the Federation ,120K,OR HIGHEROK RARE,439984665
@@ -90,7 +90,7 @@
 (Umad),Umadbro? ,200K, OR HIGHER UNOBTAINABLE STAGE 2,51352983
 (VW), Voidwrath,200K,OR HIGHERGOOD RARE ,562478132
 (WCU:AA),WC Ultimates: Aquamarine Attitude ,250K, RAISING GOOD RARE,323417812
-(DP/ADP),A Dark Presence ,75K,StableOK RARE    ,1836983772
+(ADP),A Dark Presence ,75K,StableOK RARE    ,1836983772
 (Batty),Batty Owl ,60K,OR HIGHERGOOD RARE,57013875
 (Bonum),Chronobonum: The Blessed Helm ,100K,StableGOOD RARE,1230409188
 (CRCR), Crazy Crown,60K,StableBAD RARE ,69344107
@@ -98,11 +98,11 @@
 (CW), Crimson Warlord,65K,StableOK RARE,28676186
 (LOE),Crimsonwrath, Lord of Entropy ,70K, OR HIGHER GOOD RARE,36839669
 (COTUH), Crown of the Undead Hoard,70K,OR HIGHERGOOD RARE,31046644
-(CWU:AA),CW Ultimate: Amethyst Addiction ,70K,OR HIGHER OK RARE,188004500
-(CWU:EE), CW Ultimate: Emerald Entropy,65K, OR HIGHER GOOD RARE,271015154
+(CWUAA),CW Ultimate: Amethyst Addiction ,70K,OR HIGHER OK RARE,188004500
+(CWUEE), CW Ultimate: Emerald Entropy,65K, OR HIGHER GOOD RARE,271015154
 (RQR),CW Ultimate: Rose Quartz Rebellion ,80K,OR HIGHERGOOD RARE,228449574
-(CWU:SS),CW Ultimate: Sapphire Serenity,60K,StableOK RARE,188888052
-(CWU:WW),CW Ultimate: Wulfinite Will ,80K, OR HIGHER GOOD RARE,286524947
+(CWUSS),CW Ultimate: Sapphire Serenity,60K,StableOK RARE,188888052
+(CWUWW),CW Ultimate: Wulfinite Will ,80K, OR HIGHER GOOD RARE,286524947
 (Dethroned),Dethroned Ruler of the Universe ,100K, OR HIGHER UNOBTAINABLE STAGE 2,298084718
 (Enthroned),Enthroned Ruler of the Universe ,70K,OR HIGHERGOOD RARE,27858560
 (EOE), Eyes of Emeraldwrath,100K, OR HIGHER GOOD RARE,209994352
@@ -146,7 +146,7 @@
 (EWD),Emeraldwrath Dragon ,35K,OR HIGHERGOOD RARE,105344365
 (Emperor),Emperor ,45K,OR HIGHEROK RARE,1836587282
 (EOO),Eyes of the Overworld ,40K,OR HIGHEROK RARE,15177020
-(Flag),Flag ,50K,StableOK RARE,1835729851
+(Flag),Flag ,50K,StableOK RARE,1048338
 (Aken),Headress of Aken-Aten, the Sun King ,30K,StableOK RARE,18482398
 (Frozen Helm),Helm of the Frozen North ,40K,StableOK RARE ,1323367
 (Hot Spot),Hot Spot ,20K,OR HIGHERGOOD RARE,1844782207
@@ -194,7 +194,7 @@
 (REL),Red Erikson's Lament, 50K, STABLEGOODRARE,44114667
 (Parallel),Parallel Universe Roman Empire Centurion Helmet, 75K, ORHIGHERGOODRARE,12908164
 (Sean's),Uncle Sean's Top Hat, 70K, ORHIGHERGOODRARE,23962538
-(WCU:PDD),WC Ultimates: Pink Diamond Distraction, 70K, ORHIGHEROKRARE,315549204
+(WCUPDD),WC Ultimates: Pink Diamond Distraction, 70K, ORHIGHEROKRARE,315549204
 (Lavender Egg),Brighteyes's Lavender Egg of Anticipation, 25K, ORHIGHERGOODRARE,24485062
 (GPPQ),Glorious Purple Party Queen, 20K, STABLEOKRARE, 258184056
 (NPCC),Neon Purple Crazy Crown, 35K, ORHIGHERGOODRARE,376805769
