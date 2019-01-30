@@ -3,7 +3,7 @@
 (BBR),Bling Boy’s Raiment,1.3M,OR HIGHER UNOBTAINABLE STAGE 2,52458643
 (DA),Dark Assassin,1.3M,STABLE UNOBTAINABLE STAGE 1,73791866
 (DC),Domino Crown,4M,OR HIGHER GOOD RARE,1031429
-(Astra),Dominus Astra ,5M, OR HIGHER UNOBTAINABLE STAGE 2,162067148
+(Astra),Dominus Astra ,5M, OR HIGHER GOOD RARE,162067148
 (Emp),Dominus Empyreus ,10M, Stable OK RARE ,21070012
 (Frig),Dominus Frigidus ,7.5M, Stable OK RARE ,48545806
 (Inf),Dominus Infernus,6M, OR HIGHER GOOD RARE,31101391
@@ -69,18 +69,18 @@
 (DDH),Dual Darkhearts ,130K, OR HIGHER GOOD RARE,108149175
 (DUOTF),Duchess of the Federation ,120K,OR HIGHER OK RARE,439984665
 (EOA),Eyes of Azurewrath ,155K,OR HIGHER GOOD RARE,17999992
-(FRC),Fire Ruby Crest ,100K,OR HIGHERGOOD RARE,17735316
+(FRC),Fire Ruby Crest ,100K,OR HIGHER GOOD RARE,17735316
 (GW),Ghostwalker ,175K, OR HIGHER GOOD RARE,37816777
-(Boss),Goldlika: Boss ,100K,StableOK RARE,362029620
+(Boss),Goldlika: Boss ,100K,Stable OK RARE,362029620
 (Troll), Goldlika: Troll,100K,OR HIGHER GOOD RARE,398674241
-(GS),Gold Spartan ,160K,OR HIGHE RGOOD RARE,62720797
+(GS),Gold Spartan ,160K,OR HIGHER GOOD RARE,62720797
 (Ill),Illumina ,180K,OR HIGHER GOOD RARE,16641274
-(Ice Slasher),Immortal Sword: Endless Ice Slasher ,110K,StableOK RARE,568920951
+(Ice Slasher),Immortal Sword: Endless Ice Slasher ,110K,Stable OK RARE,568920951
 (SS),Immortal Sword: Skull Slayer ,145K,STABLE OK RARE,493486164
 (Stellars),Interstellar Wings ,170K,OR HIGHER GOOD RARE,557057917
 (Mags), Magnaspectro Inspectors,135K, OR HIGHER GOOD RARE,40493240
-(MSS),Moon Seeing Stars ,120K,StableGOOD RARE,23301681
-(Ops),Ops Warrior ,125K,OR HIGHERGOOD RARE,55909280
+(MSS),Moon Seeing Stars ,120K,Stable GOOD RARE,23301681
+(Ops),Ops Warrior ,125K,OR HIGHER GOOD RARE,55909280
 (PTS), Peach Thug Shades,130K, OR HIGHER GOOD RARE,97852103
 (Retros), Retro,80s Headphones 165K,OR HIGHER GOOD RARE,29844011
 (Bobbie),Steampunk Bobbie ,110K, STABLE OK RARE,140484519
@@ -112,28 +112,28 @@
 (TH),Helm of the Great Tree ,100K, OR HIGHER GOOD RARE,9910420
 (EH),Helm of the Sacred Earth ,65K,OR HIGHERGOOD RARE,22157971
 (ID),Icedagger ,100K, OR HIGHER UNOBTAINABLE STAGE 2,83704165
-(Falchion),Immortal Sword: Future Falchion ,75K,StableOK RARE,1678356850
+(Falchion),Immortal Sword: Future Falchion ,75K,Stable OK RARE,1678356850
 (Ivory Peri),Ivory Periastron ,200K, OR HIGHER GOOD RARE,108158379
-(KM), Knightmare,70K,OR HIGHERGOOD RARE,25308748
+(KM), Knightmare,70K,OR HIGHER GOOD RARE,25308748
 (LS), Linked Sword,100K, OR HIGHER GOOD RARE,125013769
-(Hallows),Masked Hood of the All Hallows Warlock ,90K,OR HIGHERGOOD RARE,64560136
+(Hallows),Masked Hood of the All Hallows Warlock ,90K,OR HIGHER GOOD RARE,64560136
 (Onyx),Onyx Immortal Sword ,55K,UnstableBAD RARE ,2566015124
-(RFHS),Real Flaming Hot Stunnas ,60K,OR HIGHERGOOD RARE,417458345
-(RICS), Real Ice Cold Stunnas,60K,OR HIGHERGOOD RARE,100929295
+(RFHS),Real Flaming Hot Stunnas ,60K,OR HIGHER GOOD RARE,417458345
+(RICS), Real Ice Cold Stunnas,60K,OR HIGHER GOOD RARE,100929295
 (RSB),Redspybot ,70K, OR HIGHER GOOD RARE,114385498
-(Scytheface),Scytheface: The Sharpest One ,80K,OR HIGHERGOOD RARE,102617707
-(Sea King),Seeking Sea King ,80K,OR HIGHERGOOD RARE,61895706
+(Scytheface),Scytheface: The Sharpest One ,80K,OR HIGHER GOOD RARE,102617707
+(Sea King),Seeking Sea King ,80K,OR HIGHER GOOD RARE,61895706
 (SFOTH),SFOTH IV Crown of Fire ,80K, UNSTABLE OK RARE,173783297
-(Epsilon), Spec Epsilon Biograft Energy Sword,65K,OR HIGHERGOOD RARE,23727705
+(Epsilon), Spec Epsilon Biograft Energy Sword,65K,OR HIGHER GOOD RARE,23727705
 (SA),Steampunk Aetherspectacles ,65K,StableOK RARE,12908119
 (Steampunks),Steampunkoneer ,60K, OR HIGHER GOOD RARE,40893128
-(Azure Bridge),The Azure Gate Bridge ,50K,OR HIGHERGOOD RARE,22946161
-(BMV),The Bull Moose Vengeance ,55K,OR HIGHERGOOD RARE,35686056
+(Azure Bridge),The Azure Gate Bridge ,50K,OR HIGHER GOOD RARE,22946161
+(BMV),The Bull Moose Vengeance ,55K,OR HIGHER GOOD RARE,35686056
 (WCUGG), WC Ultimates - Garnet Gratitude,85K,StableOK RARE,2566024668
 (WF),Windforce ,85K, OR HIGHER GOOD RARE,77443704
 (Bastet),Bastet: The Cat Goddess ,25K,StableOK RARE,55633111
 (Bling Face),Bling  ,40K,StableOK RARE,25975243
-(CTH),Collision Top Hat ,20K,StableOK RARE,158068251
+(CTH),Collision Top Hat ,20K,Stable OK RARE,158068251
 (Copper), Copper Steampunk Top Hat,30K,OR HIGHERGOOD RARE,244160357
 (CG),Crazy Glasses ,40K,OR HIGHERGOOD RARE,16646369
 (Om Nom),Crown of Om Nom Nom ,65K,OR HIGHERGOOD RARE,21070350
@@ -148,10 +148,10 @@
 (EOO),Eyes of the Overworld ,40K,OR HIGHEROK RARE,15177020
 (Flag),Flag ,50K,StableOK RARE,1048338
 (Aken),Headress of Aken-Aten, the Sun King ,30K,StableOK RARE,18482398
-(Frozen Helm),Helm of the Frozen North ,40K,StableOK RARE ,1323367
-(Hot Spot),Hot Spot ,20K,OR HIGHERGOOD RARE,17739050
-(Celtic),Immortal Sword: Celtic Blade ,45K,StableBAD RARE,689391156
-(Shameless),Immortal Sword: Shameless Scimitar ,35K,StableBAD RARE,1402447683
+(Frozen Helm),Helm of the Frozen North ,40K,Stable OK RARE ,1323367
+(Hot Spot),Hot Spot ,20K,OR HIGHER GOOD RARE,17739050
+(Celtic),Immortal Sword: Celtic Blade ,45K,Stable BAD RARE,689391156
+(Shameless),Immortal Sword: Shameless Scimitar ,35K,Stable BAD RARE,1402447683
 (Ivory), Ivory Immortal Sword,35K,UnstableOK RARE ,2565909803
 (MCC),Magenta Crystal Circlet ,30K, OR HIGHER OK RARE,38858257
 (Lightning Striker), Masked Hood of the Lightning Striker,25K,OR HIGHERGOOD RARE,82331933
